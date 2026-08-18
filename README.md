@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Levi N
 
-<!--
-**LeviNtengu1991/LeviNtengu1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **DevOps & Cloud Engineer** focused on reliable infrastructure, secure delivery automation, and practical cloud operations.
 
-Here are some ideas to get you started:
+## Current focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS infrastructure and least-privilege cloud design
+- Terraform and repeatable infrastructure workflows
+- Kubernetes, Helm, and Argo CD GitOps
+- GitHub Actions, container security, and dependency automation
+- Prometheus, Grafana, service-level objectives, and incident runbooks
+- Linux automation and operational scripting
+
+## Featured engineering labs
+
+- [Kubernetes GitOps Platform](https://github.com/LeviNtengu1991/kubernetes-gitops-platform) — kind, Helm, Argo CD, policy controls, observability, SLOs, and failure exercises.
+- [Cloud Health API Platform](https://github.com/LeviNtengu1991/cloud-health-api-platform) — containerized workload, Terraform, AWS ECS/ECR foundations, security, and CI.
+- [Cloud Observability Stack](https://github.com/LeviNtengu1991/cloud-observability-stack) — Prometheus, Grafana, Blackbox Exporter, alert rules, CI validation, and runbooks.
+
+## How I work
+
+I prefer infrastructure that is version-controlled, reviewable, reproducible, observable, and designed with rollback in mind. The projects here are personal engineering labs; they do not claim production traffic or business results unless supporting evidence is included.
+
+## Currently improving
+
+I am continuing to strengthen these labs through personally executed failure exercises, genuine operational evidence, and incremental open-source contribution.
