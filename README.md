@@ -1,7 +1,8 @@
-Hi, I'm Levi N 👋
+##Hi, I'm Levi N 👋
+
 DevOps & Cloud Engineer specializing in reliable infrastructure, secure automation, and GitOps workflows.
 
-Core Stack & Focus
+##Core Stack & Focus
 
 Cloud & IaC: AWS, Terraform, Linux Scripting
 
@@ -11,7 +12,7 @@ CI/CD & Security: GitHub Actions, Container Security, Dependency Automation
 
 Observability: Prometheus, Grafana, SLOs, Incident Runbooks
 
-Featured Engineering Labs
+##Featured Engineering Labs
 
 Kubernetes GitOps Platform — kind, Helm, Argo CD, policy controls, observability & failure exercises.
 
@@ -19,5 +20,6 @@ Cloud Health API Platform — Containerized workload, AWS ECS/ECR, Terraform, an
 
 Cloud Observability Stack — Prometheus, Grafana, Blackbox Exporter, and automated alert validation.
 
-Engineering Philosophy
+##Engineering Philosophy
+
 I build version-controlled, reproducible, and observable systems designed for simple rollbacks. Currently sharpening my stacks through hands-on failure testing and open-source contributions.
