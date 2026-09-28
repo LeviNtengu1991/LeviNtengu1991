@@ -1,25 +1,22 @@
-# Hi, I'm Levi N 👋
+# Hi, I'm Levi 👋
 
-DevOps & Cloud Engineer specializing in reliable infrastructure, secure automation, and GitOps workflows.
+I'm a DevOps and Cloud Engineer working with AWS, Terraform, and Linux. A lot of my work comes down to making deployments repeatable, automating manual steps, and figuring out why something isn't working.
 
-## Core Stack & Focus
+I use this GitHub to build out ideas and practice the parts of infrastructure work that are hard to learn from documentation alone: deploying a service, breaking it, finding the problem, and getting it running again.
 
-**Cloud & IaC:** AWS, Terraform, Linux Scripting
+## What I work with
 
-**Containers & Orchestration:** Kubernetes, Helm, Argo CD, ECS/ECR
+- **Infrastructure:** AWS, Terraform, Linux, and shell scripting
+- **Deployments:** GitHub Actions, Kubernetes, Helm, Argo CD, and ECS/ECR
+- **Monitoring:** Prometheus, Grafana, SLOs, and incident runbooks
+- **Security:** Container scanning and dependency updates
 
-**CI/CD & Security:** GitHub Actions, Container Security, Dependency Automation
+## Projects
 
-**Observability:** Prometheus, Grafana, SLOs, Incident Runbooks
+These are hands-on labs where I work through deployment, monitoring, and troubleshooting.
 
-## Featured Engineering Labs
+- [**Kubernetes GitOps Platform**](https://github.com/LeviNtengu1991/kubernetes-gitops-platform) — A local Kubernetes setup using kind, Helm, and Argo CD, with policy checks, monitoring, and failure exercises.
+- [**Cloud Health API Platform**](https://github.com/LeviNtengu1991/cloud-health-api-platform) — A containerized API deployed to AWS ECS, with Terraform, ECR, and security checks in CI/CD.
+- [**Cloud Observability Stack**](https://github.com/LeviNtengu1991/cloud-observability-stack) — A monitoring lab using Prometheus, Grafana, and Blackbox Exporter, including checks that alerts fire as expected.
 
-[**Kubernetes GitOps Platform**](https://github.com/LeviNtengu1991/kubernetes-gitops-platform) — kind, Helm, Argo CD, policy controls, observability & failure exercises.
-
-[**Cloud Health API Platform**](https://github.com/LeviNtengu1991/cloud-health-api-platform) — Containerized workload, AWS ECS/ECR, Terraform, and CI/CD security.
-
-[**Cloud Observability Stack**](https://github.com/LeviNtengu1991/cloud-observability-stack) — Prometheus, Grafana, Blackbox Exporter, and automated alert validation.
-
-## Engineering Philosophy
-
-I build version-controlled, reproducible, and observable systems designed for simple rollbacks. Currently sharpening my stacks through hands-on failure testing and open-source contributions.
+I like setups that are easy to understand, changes I can trace in Git, and a clear way to roll back when things go wrong.
